@@ -1,0 +1,92 @@
+[
+    {
+        "file_path": "path/to/file",
+        "metadata": {
+            "name_of_document": "Sri Kotala Resume",
+            "document_type": "Resume",
+            "parties": [
+                "Sri Kotala"
+            ],
+            "key_terms": [
+                "Email Marketing Coordinator",
+                "Content Creator",
+                "Technical Writer",
+                "Data Analysis",
+                "Process Optimization",
+                "Project Leadership",
+                "Data-driven decision-making"
+            ],
+            "date": "2026-05-01",
+            "short_description": "Resume of Sri Kotala, a dual-degree student with experience in data analysis and marketing.",
+            "confidence": 0.95
+        },
+        "timestamp": "2026-04-03T14:51:59.953963"
+    },
+    {
+        "file_path": "path/to/file",
+        "metadata": {
+            "name_of_document": "Kotala_Resume",
+            "document_type": "Resume",
+            "parties": [
+                "Sri Kotala"
+            ],
+            "key_terms": [
+                "Education",
+                "Work Experience",
+                "Skills",
+                "Projects"
+            ],
+            "date": "2023-10-01",
+            "short_description": "Resume of Sri Kotala, a dual-degree student focusing on Strategic Communication and Computer Science with relevant work experience and skills.",
+            "confidence": 0.95
+        },
+        "timestamp": "2026-04-03T14:53:47.267992"
+    },
+    {
+        "file_path": "path/to/file",
+        "metadata": {
+            "name_of_document": "Campaign Memo #1",
+            "document_type": "Market Research Report",
+            "parties": [
+                "Thiel-Stern Campaigns",
+                "House of Sol"
+            ],
+            "key_terms": [
+                "Category Audit",
+                "Competitive Audit",
+                "AI for Client Experience",
+                "Digital Marketing",
+                "Sustainable Salons",
+                "Mental Health Support",
+                "Employee Development"
+            ],
+            "date": "2025-10-01",
+            "short_description": "This document presents a category and competitive audit focusing on the beauty and wellness industry, highlighting trends, statistics, and strategies for spa and salon businesses, with an emphasis on innovation and customer experience."
+        },
+        "timestamp": "2026-04-03T15:08:25.695842"
+    },
+    {
+        "file_path": "path/to/file",
+        "metadata": {
+            "name_of_document": "Campaign Memo #1 \u2014 Category and Competitive Audit",
+            "document_type": "Campaign Memo",
+            "parties": [
+                "Thiel-Stern Campaigns",
+                "House of Sol"
+            ],
+            "key_terms": [
+                "Category Audit",
+                "Competitive Audit",
+                "AI for Client Experience",
+                "Sustainable Salons",
+                "Digital Marketing",
+                "Employee Mental Health",
+                "Brand Loyalty",
+                "Workplace Loyalty"
+            ],
+            "short_description": "Audit and analysis of the beauty and wellness industry, covering trends, competitors, and implications for client differentiation.",
+            "date": "2025-10-01"
+        },
+        "timestamp": "2026-04-03T16:11:16.683829"
+    }
+]
