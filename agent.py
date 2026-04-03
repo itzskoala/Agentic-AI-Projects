@@ -1,19 +1,5 @@
 #Sricharan Kotala 
 
-'''
-input a file, extract contents, give it a name, put it into a certain directory, log location, 
-
-
-pip install openai pdfplumber python-docx pytesseract pillow\
-
-    openAi -> the actual AI calls/agentic part of this project
-    pdfplumber -> Reads text from PDFs
-    python-docx -> reads text from docs
-    pytesseract -> Optical Character Recognition (OCR) is a technology that 
-    converts images of typed, handwritten, or printed text into machine-encoded, editable, and searchable digital text
-    pillow -> Image processing library (needed for OCR)
-
-'''
 import datetime
 from email.mime import text
 from http import client
@@ -207,10 +193,7 @@ class AgenticManager:
     4. Add confidence score to the json output ALWAYS
     5. Create email sender
         - is it possible to add those documents in the email?
-    
     '''
-
-    
     
 if __name__ == "__main__":
     TEST_FOLDER = "/Users/koala07/Documents/Job App Materials"

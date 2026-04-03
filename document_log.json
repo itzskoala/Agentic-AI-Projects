@@ -88,5 +88,27 @@
             "date": "2025-10-01"
         },
         "timestamp": "2026-04-03T16:11:16.683829"
+    },
+    {
+        "file_path": "path/to/file",
+        "metadata": {
+            "name_of_document": "Resume_Sri_Kotala",
+            "document_type": "Resume",
+            "parties": [
+                "Sri Kotala"
+            ],
+            "key_terms": [
+                "Marketing Specialist",
+                "Content Creator",
+                "Technical Writer",
+                "Projects",
+                "Skills",
+                "Education",
+                "Work Experience"
+            ],
+            "short_description": "A resume outlining the education, experience, and skills of Sri Kotala, a data-driven digital marketer and student.",
+            "confidence": 0.9
+        },
+        "timestamp": "2026-04-03T16:21:53.417637"
     }
 ]
