@@ -1,0 +1,15 @@
+{
+    "name_of_document": "Vendor_Intake_Notes",
+    "document_type": "Service Agreement",
+    "parties": [
+        "Pine Street Transcription"
+    ],
+    "key_terms": [
+        "service agreement",
+        "quote"
+    ],
+    "date": "2026-04-04",
+    "short_description": "Notes related to vendor intake process possibly involving a service agreement.",
+    "confidence": 0.7,
+    "new_file_path": "MPR_Legal_Documents/service agreements/Pine Street Transcription/random_vendor_notes.md"
+}

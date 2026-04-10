@@ -1,0 +1,16 @@
+{
+    "name_of_document": "MPR_Pine_Street_Transcription_Vendor_Letter",
+    "document_type": "Vendor Letter",
+    "parties": [
+        "Minnesota Public Radio",
+        "Pine Street Transcription"
+    ],
+    "key_terms": [
+        "order form",
+        "services agreement"
+    ],
+    "date": "2023-10-05",
+    "short_description": "A letter regarding services agreement between Minnesota Public Radio and Pine Street Transcription.",
+    "confidence": 0.85,
+    "new_file_path": "MPR_Legal_Documents/vendor letters/Minnesota Public Radio/unsigned_vendor_letter.txt"
+}

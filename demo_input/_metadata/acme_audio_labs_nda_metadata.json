@@ -1,0 +1,17 @@
+{
+    "name_of_document": "NDA_Minnesota_Public_Radio_Acme_Audio_Labs_2026-03-10",
+    "document_type": "NDA",
+    "parties": [
+        "Minnesota Public Radio",
+        "Acme Audio Labs, Inc."
+    ],
+    "key_terms": [
+        "Confidential evaluation",
+        "audience analytics platform",
+        "underwriting reporting tools"
+    ],
+    "date": "2026-03-10",
+    "short_description": "This Non-Disclosure Agreement is for the confidential evaluation of Acme's audience analytics platform and underwriting reporting tools.",
+    "confidence": 0.95,
+    "new_file_path": "MPR_Legal_Documents/ndas/Minnesota Public Radio/acme_audio_labs_nda.txt"
+}

@@ -1,0 +1,17 @@
+{
+    "name_of_document": "legal_document_demo_001",
+    "document_type": "NDA",
+    "parties": [
+        "Party A",
+        "Party B"
+    ],
+    "key_terms": [
+        "confidentiality",
+        "termination",
+        "scope of work"
+    ],
+    "date": "2023-10-01",
+    "short_description": "Non-Disclosure Agreement between Party A and Party B.",
+    "confidence": 0.85,
+    "new_file_path": "organized_documents/ndas/Party A/mailbox_archive.pst"
+}

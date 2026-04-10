@@ -1,0 +1,17 @@
+{
+    "name_of_document": "Master_Services_Agreement_2026-02-02",
+    "document_type": "Contract",
+    "parties": [
+        "Minnesota Public Radio",
+        "Northstar Studios LLC"
+    ],
+    "key_terms": [
+        "podcast editing",
+        "restoration",
+        "production support"
+    ],
+    "date": "2026-02-02",
+    "short_description": "This Master Services Agreement outlines the services provided by Northstar Studios LLC to Minnesota Public Radio.",
+    "confidence": 0.95,
+    "new_file_path": "MPR_Legal_Documents/contracts/Minnesota Public Radio/northstar_studios_msa.md"
+}

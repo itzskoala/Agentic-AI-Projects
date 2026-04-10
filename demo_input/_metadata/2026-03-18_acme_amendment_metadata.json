@@ -1,0 +1,12 @@
+{
+    "name_of_document": "Contract_Amendment_Minnesota_Public_Radio_Acme_Audio_Labs_2026-03-18",
+    "document_type": "Contract Amendment",
+    "parties": [
+        "Minnesota Public Radio",
+        "Acme Audio Labs, Inc."
+    ],
+    "date": "2026-03-18",
+    "short_description": "Amendment to the existing contract between Minnesota Public Radio and Acme Audio Labs, Inc.",
+    "confidence": 0.95,
+    "new_file_path": "MPR_Legal_Documents/contract amendments/Minnesota Public Radio/2026-03-18_acme_amendment.eml"
+}
