@@ -21,8 +21,6 @@ Inside the `.env` file, add:
 
 OPENAI_API_KEY=your_api_key_here
 
-> ⚠️ **Important:** Never share your API key or commit your `.env` file to version control.
-
 ---
 
 ## ▶️ Running the Program
