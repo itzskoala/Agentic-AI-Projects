@@ -11,12 +11,7 @@ To run this project, you’ll need your own OpenAI API key.
 ### 1. Get an API Key
 Sign up or log in on the OpenAI platform and generate an API key.
 
-### 2. Create a `.env` File
-In the root directory of the project, create a file named:
-
-.env
-
-### 3. Add Your API Key
+### 2. Add Your API Key
 Inside the `.env` file, add:
 
 OPENAI_API_KEY=your_api_key_here
